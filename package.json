@@ -8,6 +8,10 @@
     "map": "parcel ./analyse/index.html --open --out-dir analyse-dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tumblingG/miniapp-shaking-demo.git"
+  },
   "keywords": [
     "小程序",
     "摇树优化"
