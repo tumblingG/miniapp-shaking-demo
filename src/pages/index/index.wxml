@@ -1,2 +1,5 @@
 <view>主包</view>
+<!--groupStart:groupB-->
 <componentOne></componentOne>
+<!--groupEnd-->
+

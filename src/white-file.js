@@ -1,1 +1,1 @@
-require('../../index.js');
+require('./package1/services/const.js');

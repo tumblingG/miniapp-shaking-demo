@@ -14,8 +14,7 @@
   "subPackages": [{
     "root": "package1",
     "pages": [
-      "pages/index",
-      "index"
+      "pages/index"
     ]
   }, {
     "root": "package2",

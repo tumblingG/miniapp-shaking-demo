@@ -6,6 +6,8 @@ const options = {
   targetDir: path.join(__dirname, 'dist'),
   analyseDir: path.join(__dirname, 'analyse'),
   isSplitNpm: true,
+  groupName: 'groupA',
+  needDeleteGroupCode: true,
   needCustomTabBar: false,
   excludeFiles: ['package-lock.json', 'package.json'],
 };
