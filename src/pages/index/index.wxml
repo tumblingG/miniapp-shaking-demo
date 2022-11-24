@@ -1,5 +1,15 @@
+<!--sds-->
 <view>主包</view>
 <!--groupStart:groupB-->
 <componentOne></componentOne>
 <!--groupEnd-->
 
+<view>middle</view>
+
+<!--groupStart:groupA-->
+<view>groupA</view>
+<!--groupEnd-->
+
+<!--groupStart:groupB-->
+<view>groupB</view>
+<!--groupEnd-->

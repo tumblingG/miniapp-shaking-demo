@@ -9,25 +9,21 @@ Page({
     }).catch(() => {})
   },
 
-  /**
-   * groupStart:groupA,groupC
-   * @params: ss
-   */
+  /** groupStart:groupA, groupC */
   sum() {
     return 1 + 1 + 1;
   },
   /** groupEnd */
 
-  /**
-   * groupStart:groupB
-   * @pssfsf
-   */
+  /** groupStart:groupB */
   sum2() {
     return 2 + 2;
   },
   /** groupEnd */
 
+  /** groupStart:groupA */
   sum3() {
     return 3 + 3;
   },
+  /** groupEnd */
 })
